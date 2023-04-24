@@ -1,0 +1,26 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "logger with color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NattapongPongsri/Packages.git"
+  },
+  "keywords": [
+    "log",
+    "color"
+  ],
+  "author": "cow-arcade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NattapongPongsri/Packages/issues"
+  },
+  "homepage": "https://github.com/NattapongPongsri/Packages#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
